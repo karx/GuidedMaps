@@ -16,7 +16,7 @@ This is what makes the decision to optimize for
  : Reach fast (i.e focus on reaching fast self)
  : VIP
  : Grid Workers (just in the grid to optimize traffic)
- : Volineer Grid workers (optional way to help optimize traffic)
+ : Volunteer Grid workers (optional way to help optimize traffic)
 
 - Admin inteface
  Monitor and modify and update and ...
